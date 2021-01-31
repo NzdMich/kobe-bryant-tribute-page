@@ -1,0 +1,106 @@
+html {
+  font-size: 10px;
+}
+
+body {
+margin: 0;
+
+text-align: "center";
+
+  font-family: Bodoni MT, Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, serif;
+
+font-size: 15px;
+  }
+
+#main {
+margin: 35px 10px;
+
+padding: 20px border-radius: 5px;
+
+  background-color: #eee;
+  }
+
+#title {
+text-align: center;
+
+border-style: "";
+
+  background-color: #eee;
+
+font-size: 20px;
+  }
+
+#img-div {
+margin: 0;
+
+padding: 15px;
+
+  background-color: white;
+  }
+
+#image {
+display: block;
+
+  width: 100%;
+
+max-width: 600px;
+
+height: auto;
+
+margin-right: auto;
+
+margin-left: auto;
+  }
+
+#img-caption {
+  text-align: center;
+
+font-size: 15;
+  }
+
+#tribute-info {
+text-align: center;
+
+  font: 15px;
+  }
+
+#tribute-link {}
+
+h1 {
+text-align: center;
+
+color: purple;
+
+  font-family: Bodoni MT, Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, serif;
+
+font-size: 40px;
+  }
+
+h2 {}
+
+h3 {}
+
+p {}
+
+ul {
+  max-width: 550px;
+
+margin: 0 auto 50px auto;
+
+text-align: left;
+
+line-height: 1.6;
+  }
+
+li {
+  margin: 16px 0;
+}
+
+
+a {
+  color: #4F03C0;
+}
+
+a:visited {
+  color: #0538ec;
+}
